@@ -132,7 +132,7 @@ function changeBackground(weatherCondition){
 
         case "Clear":
             body.style.background =
-            "linear-gradient(135deg,#f7971e,#ffd200)";
+            "linear-gradient(135deg,#f7671e,#ffe200)";
             break;
 
         case "Clouds":
